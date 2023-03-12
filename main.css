@@ -1,4 +1,4 @@
-@media (min-width: 100%)  {.h1 {
+@media (min-width: 320px)  {.h1 {
     font-size: 0,3em;
 }}
 
@@ -6,12 +6,7 @@
     font-size: 0,5em;
 }}
 @media (min-width: 1800px) {.h1 { font-size: 0.7em;
- }
-}
-.accordion {
-    
-}
-
+ }}
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 0;
